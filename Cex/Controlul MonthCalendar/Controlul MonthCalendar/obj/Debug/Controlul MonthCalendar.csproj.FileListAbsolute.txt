@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\bin\Debug\Controlul MonthCalendar.exe.config
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\bin\Debug\Controlul MonthCalendar.exe
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\bin\Debug\Controlul MonthCalendar.pdb
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul MonthCalendar.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul_MonthCalendar.Form1.resources
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul_MonthCalendar.Properties.Resources.resources
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul MonthCalendar.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul MonthCalendar.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul MonthCalendar.exe
+C:\Users\spote\source\repos\Controlul MonthCalendar\Controlul MonthCalendar\obj\Debug\Controlul MonthCalendar.pdb

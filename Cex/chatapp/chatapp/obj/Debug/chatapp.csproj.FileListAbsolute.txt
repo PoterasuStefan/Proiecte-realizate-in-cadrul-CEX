@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\chatapp\chatapp\bin\Debug\chatapp.exe.config
+C:\Users\spote\source\repos\chatapp\chatapp\bin\Debug\chatapp.exe
+C:\Users\spote\source\repos\chatapp\chatapp\bin\Debug\chatapp.pdb
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.Form1.resources
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.Properties.Resources.resources
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.exe
+C:\Users\spote\source\repos\chatapp\chatapp\obj\Debug\chatapp.pdb

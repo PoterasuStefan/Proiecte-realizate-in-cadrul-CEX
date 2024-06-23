@@ -1,0 +1,12 @@
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\bin\Debug\21 Decembrie CEX Programare.exe.config
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\bin\Debug\21 Decembrie CEX Programare.exe
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\bin\Debug\21 Decembrie CEX Programare.pdb
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\21 Decembrie CEX Programare.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\_21_Decembrie_CEX_Programare.Form1.resources
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\_21_Decembrie_CEX_Programare.Programare.resources
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\_21_Decembrie_CEX_Programare.Properties.Resources.resources
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\21 Decembrie CEX Programare.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\21 Decembrie CEX Programare.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\21 Decembrie CEX Programare.exe
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\21 Decembrie CEX Programare.pdb
+C:\Users\spote\source\repos\21 Decembrie CEX Programare\21 Decembrie CEX Programare\obj\Debug\_21_Decembrie_CEX_Programare.Afisare.resources

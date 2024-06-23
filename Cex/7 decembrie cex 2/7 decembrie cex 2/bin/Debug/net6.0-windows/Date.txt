@@ -1,0 +1,61 @@
+ 
+Nume: 
+dan
+Prenume: 
+voiculescu
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:28:53 PM
+hh
+Greata
+ 
+Nume: 
+x
+Prenume: 
+s
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:33:45 PM
+d
+Lipsa mires
+ 
+Nume: 
+da
+Prenume: 
+c
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:35:19 PM
+s
+Frisoane
+ 
+Nume: 
+d
+Prenume: 
+a
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:40:11 PM
+d
+Greata
+ 
+Nume: 
+C
+Prenume: 
+A
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:40:51 PM
+D
+Tusit
+Lipsa gust
+ 
+Nume: 
+D
+Prenume: 
+A
+Genul: Femeie 
+Data nasterii: 
+12/7/2023 7:42:02 PM
+D
+Tusit

@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\bin\Debug\net6.0\AbstractAngajatProiect.exe
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\bin\Debug\net6.0\AbstractAngajatProiect.deps.json
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\bin\Debug\net6.0\AbstractAngajatProiect.runtimeconfig.json
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\bin\Debug\net6.0\AbstractAngajatProiect.dll
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\bin\Debug\net6.0\AbstractAngajatProiect.pdb
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.AssemblyInfo.cs
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.dll
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\refint\AbstractAngajatProiect.dll
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.pdb
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\AbstractAngajatProiect.genruntimeconfig.cache
+C:\Users\spote\source\repos\AbstractAngajatProiect\AbstractAngajatProiect\obj\Debug\net6.0\ref\AbstractAngajatProiect.dll

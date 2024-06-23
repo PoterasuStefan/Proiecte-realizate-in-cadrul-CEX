@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\bin\Debug\Calcularea varstei in ani.exe.config
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\bin\Debug\Calcularea varstei in ani.exe
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\bin\Debug\Calcularea varstei in ani.pdb
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea varstei in ani.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea_varstei_in_ani.Form1.resources
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea_varstei_in_ani.Properties.Resources.resources
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea varstei in ani.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea varstei in ani.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea varstei in ani.exe
+C:\Users\spote\source\repos\Calcularea varstei in ani\Calcularea varstei in ani\obj\Debug\Calcularea varstei in ani.pdb

@@ -1,0 +1,11 @@
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\bin\Debug\Puzzle_Poterasu_Stefan.exe.config
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\bin\Debug\Puzzle_Poterasu_Stefan.exe
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\bin\Debug\Puzzle_Poterasu_Stefan.pdb
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.Form1.resources
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.Properties.Resources.resources
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.exe
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.pdb
+C:\Users\spote\source\repos\Puzzle_Poterasu_Stefan\Puzzle_Poterasu_Stefan\obj\Debug\Puzzle_Poterasu_Stefan.Form2.resources

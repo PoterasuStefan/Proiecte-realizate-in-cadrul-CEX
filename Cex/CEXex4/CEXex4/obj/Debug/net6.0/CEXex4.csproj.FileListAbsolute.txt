@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\CEXex4\CEXex4\bin\Debug\net6.0\CEXex4.exe
+C:\Users\spote\source\repos\CEXex4\CEXex4\bin\Debug\net6.0\CEXex4.deps.json
+C:\Users\spote\source\repos\CEXex4\CEXex4\bin\Debug\net6.0\CEXex4.runtimeconfig.json
+C:\Users\spote\source\repos\CEXex4\CEXex4\bin\Debug\net6.0\CEXex4.dll
+C:\Users\spote\source\repos\CEXex4\CEXex4\bin\Debug\net6.0\CEXex4.pdb
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.AssemblyInfo.cs
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.dll
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\refint\CEXex4.dll
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.pdb
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\CEXex4.genruntimeconfig.cache
+C:\Users\spote\source\repos\CEXex4\CEXex4\obj\Debug\net6.0\ref\CEXex4.dll

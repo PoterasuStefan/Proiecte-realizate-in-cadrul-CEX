@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\bin\Debug\Aplicația 15- Crearea unui slideshow.exe.config
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\bin\Debug\Aplicația 15- Crearea unui slideshow.exe
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\bin\Debug\Aplicația 15- Crearea unui slideshow.pdb
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația 15- Crearea unui slideshow.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația_15__Crearea_unui_slideshow.Form1.resources
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația_15__Crearea_unui_slideshow.Properties.Resources.resources
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația 15- Crearea unui slideshow.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația 15- Crearea unui slideshow.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația 15- Crearea unui slideshow.exe
+C:\Users\spote\source\repos\Aplicația 15- Crearea unui slideshow\Aplicația 15- Crearea unui slideshow\obj\Debug\Aplicația 15- Crearea unui slideshow.pdb

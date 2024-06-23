@@ -1,0 +1,13 @@
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\bin\Debug\Turism.mdf
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\bin\Debug\Turism_log.ldf
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\bin\Debug\Cex 2017.exe.config
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\bin\Debug\Cex 2017.exe
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\bin\Debug\Cex 2017.pdb
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex 2017.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex_2017.Properties.Resources.resources
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex_2017.Turism.resources
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex 2017.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex 2017.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex 2017.exe
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex 2017.pdb
+C:\Users\spote\source\repos\Cex 2017\Cex 2017\obj\Debug\Cex_2017.Genereaza_Poster.resources

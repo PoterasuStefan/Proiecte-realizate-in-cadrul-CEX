@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.Form1.resources
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.Properties.Resources.resources
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\bin\Debug\LungimeaUnda.exe.config
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\bin\Debug\LungimeaUnda.exe
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\bin\Debug\LungimeaUnda.pdb
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.exe
+C:\Users\spote\source\repos\LungimeaUnda\LungimeaUnda\obj\Debug\LungimeaUnda.pdb

@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\Poliformism\Poliformism\bin\Debug\net6.0\Poliformism.exe
+C:\Users\spote\source\repos\Poliformism\Poliformism\bin\Debug\net6.0\Poliformism.deps.json
+C:\Users\spote\source\repos\Poliformism\Poliformism\bin\Debug\net6.0\Poliformism.runtimeconfig.json
+C:\Users\spote\source\repos\Poliformism\Poliformism\bin\Debug\net6.0\Poliformism.dll
+C:\Users\spote\source\repos\Poliformism\Poliformism\bin\Debug\net6.0\Poliformism.pdb
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.AssemblyInfo.cs
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.dll
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\refint\Poliformism.dll
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.pdb
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\Poliformism.genruntimeconfig.cache
+C:\Users\spote\source\repos\Poliformism\Poliformism\obj\Debug\net6.0\ref\Poliformism.dll

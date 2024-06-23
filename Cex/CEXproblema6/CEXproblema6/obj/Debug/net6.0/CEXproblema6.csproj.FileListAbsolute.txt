@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.AssemblyInfo.cs
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\bin\Debug\net6.0\CEXproblema6.exe
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\bin\Debug\net6.0\CEXproblema6.deps.json
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\bin\Debug\net6.0\CEXproblema6.runtimeconfig.json
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\bin\Debug\net6.0\CEXproblema6.dll
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\bin\Debug\net6.0\CEXproblema6.pdb
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.dll
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\refint\CEXproblema6.dll
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.pdb
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\CEXproblema6.genruntimeconfig.cache
+C:\Users\spote\source\repos\CEXproblema6\CEXproblema6\obj\Debug\net6.0\ref\CEXproblema6.dll

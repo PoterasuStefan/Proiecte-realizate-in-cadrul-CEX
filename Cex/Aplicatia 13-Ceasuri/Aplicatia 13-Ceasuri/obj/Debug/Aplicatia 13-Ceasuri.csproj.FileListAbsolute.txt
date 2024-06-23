@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\bin\Debug\Aplicatia 13-Ceasuri.exe.config
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\bin\Debug\Aplicatia 13-Ceasuri.exe
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\bin\Debug\Aplicatia 13-Ceasuri.pdb
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia 13-Ceasuri.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia_13_Ceasuri.Form1.resources
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia_13_Ceasuri.Properties.Resources.resources
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia 13-Ceasuri.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia 13-Ceasuri.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia 13-Ceasuri.exe
+C:\Users\spote\source\repos\Aplicatia 13-Ceasuri\Aplicatia 13-Ceasuri\obj\Debug\Aplicatia 13-Ceasuri.pdb

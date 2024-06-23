@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe.config
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.exe
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\bin\Debug\MiniCalculator.pdb
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.Form1.resources
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.Properties.Resources.resources
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.exe
+C:\Users\spote\source\repos\MiniCalculator\MiniCalculator\obj\Debug\MiniCalculator.pdb

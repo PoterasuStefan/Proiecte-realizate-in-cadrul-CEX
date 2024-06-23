@@ -1,0 +1,17 @@
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\bin\Debug\net6.0-windows\Cex 7 decembrie.exe
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\bin\Debug\net6.0-windows\Cex 7 decembrie.deps.json
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\bin\Debug\net6.0-windows\Cex 7 decembrie.runtimeconfig.json
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\bin\Debug\net6.0-windows\Cex 7 decembrie.dll
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\bin\Debug\net6.0-windows\Cex 7 decembrie.pdb
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.AssemblyInfo.cs
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.dll
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\refint\Cex 7 decembrie.dll
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.pdb
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex 7 decembrie.genruntimeconfig.cache
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\ref\Cex 7 decembrie.dll
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\Cex_7_decembrie.Form.resources
+C:\Users\spote\source\repos\Cex 7 decembrie\Cex 7 decembrie\obj\Debug\net6.0-windows\MiniCalculator.Form1.resources

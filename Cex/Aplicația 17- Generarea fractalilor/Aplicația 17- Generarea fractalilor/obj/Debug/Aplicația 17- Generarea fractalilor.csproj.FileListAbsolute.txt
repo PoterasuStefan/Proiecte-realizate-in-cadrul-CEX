@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\bin\Debug\Aplicația 17- Generarea fractalilor.exe.config
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\bin\Debug\Aplicația 17- Generarea fractalilor.exe
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\bin\Debug\Aplicația 17- Generarea fractalilor.pdb
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația 17- Generarea fractalilor.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația_17__Generarea_fractalilor.Form1.resources
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația_17__Generarea_fractalilor.Properties.Resources.resources
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația 17- Generarea fractalilor.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația 17- Generarea fractalilor.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația 17- Generarea fractalilor.exe
+C:\Users\spote\source\repos\Aplicația 17- Generarea fractalilor\Aplicația 17- Generarea fractalilor\obj\Debug\Aplicația 17- Generarea fractalilor.pdb

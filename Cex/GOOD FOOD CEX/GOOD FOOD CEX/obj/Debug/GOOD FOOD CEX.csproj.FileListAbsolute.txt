@@ -1,0 +1,16 @@
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\Database1.mdf
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\Database1_log.ldf
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\GOOD FOOD CEX.exe.config
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\GOOD FOOD CEX.exe
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\GOOD FOOD CEX.pdb
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD FOOD CEX.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD_FOOD_CEX.Form1.resources
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD_FOOD_CEX.Form2.resources
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD_FOOD_CEX.Properties.Resources.resources
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD FOOD CEX.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD FOOD CEX.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD FOOD CEX.exe
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD FOOD CEX.pdb
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD_FOOD_CEX.Autentificare.resources
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\obj\Debug\GOOD_FOOD_CEX.Optiuni.resources
+C:\Users\spote\source\repos\GOOD FOOD CEX\GOOD FOOD CEX\bin\Debug\Resources\meniu.txt

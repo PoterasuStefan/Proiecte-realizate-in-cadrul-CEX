@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\bin\Debug\net6.0\ProblemaClase2.exe
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\bin\Debug\net6.0\ProblemaClase2.deps.json
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\bin\Debug\net6.0\ProblemaClase2.runtimeconfig.json
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\bin\Debug\net6.0\ProblemaClase2.dll
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\bin\Debug\net6.0\ProblemaClase2.pdb
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.AssemblyInfo.cs
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.dll
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\refint\ProblemaClase2.dll
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.pdb
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ProblemaClase2.genruntimeconfig.cache
+C:\Users\spote\source\repos\ProblemaClase2\ProblemaClase2\obj\Debug\net6.0\ref\ProblemaClase2.dll

@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\bin\Debug\Convertordetemperatura.exe.config
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\bin\Debug\Convertordetemperatura.exe
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\bin\Debug\Convertordetemperatura.pdb
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.Form1.resources
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.Properties.Resources.resources
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.exe
+C:\Users\spote\source\repos\Convertordetemperatura\Convertordetemperatura\obj\Debug\Convertordetemperatura.pdb

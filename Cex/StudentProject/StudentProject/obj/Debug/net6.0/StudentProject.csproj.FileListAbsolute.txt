@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\StudentProject\StudentProject\bin\Debug\net6.0\StudentProject.exe
+C:\Users\spote\source\repos\StudentProject\StudentProject\bin\Debug\net6.0\StudentProject.deps.json
+C:\Users\spote\source\repos\StudentProject\StudentProject\bin\Debug\net6.0\StudentProject.runtimeconfig.json
+C:\Users\spote\source\repos\StudentProject\StudentProject\bin\Debug\net6.0\StudentProject.dll
+C:\Users\spote\source\repos\StudentProject\StudentProject\bin\Debug\net6.0\StudentProject.pdb
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.AssemblyInfo.cs
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.dll
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\refint\StudentProject.dll
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.pdb
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\StudentProject.genruntimeconfig.cache
+C:\Users\spote\source\repos\StudentProject\StudentProject\obj\Debug\net6.0\ref\StudentProject.dll

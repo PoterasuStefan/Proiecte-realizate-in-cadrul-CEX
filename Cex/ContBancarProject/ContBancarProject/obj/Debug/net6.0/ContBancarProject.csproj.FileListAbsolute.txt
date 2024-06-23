@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.AssemblyInfo.cs
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\bin\Debug\net6.0\ContBancarProject.exe
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\bin\Debug\net6.0\ContBancarProject.deps.json
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\bin\Debug\net6.0\ContBancarProject.runtimeconfig.json
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\bin\Debug\net6.0\ContBancarProject.dll
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\bin\Debug\net6.0\ContBancarProject.pdb
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.dll
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\refint\ContBancarProject.dll
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.pdb
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ContBancarProject.genruntimeconfig.cache
+C:\Users\spote\source\repos\ContBancarProject\ContBancarProject\obj\Debug\net6.0\ref\ContBancarProject.dll

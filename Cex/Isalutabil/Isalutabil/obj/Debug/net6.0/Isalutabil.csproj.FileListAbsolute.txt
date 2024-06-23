@@ -1,0 +1,14 @@
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\bin\Debug\net6.0\Isalutabil.exe
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\bin\Debug\net6.0\Isalutabil.deps.json
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\bin\Debug\net6.0\Isalutabil.runtimeconfig.json
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\bin\Debug\net6.0\Isalutabil.dll
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\bin\Debug\net6.0\Isalutabil.pdb
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.AssemblyInfoInputs.cache
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.AssemblyInfo.cs
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.dll
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\refint\Isalutabil.dll
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.pdb
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\Isalutabil.genruntimeconfig.cache
+C:\Users\spote\source\repos\Isalutabil\Isalutabil\obj\Debug\net6.0\ref\Isalutabil.dll

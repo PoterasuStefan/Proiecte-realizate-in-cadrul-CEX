@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\bin\Debug\cex 14.12 2.exe.config
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\bin\Debug\cex 14.12 2.exe
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\bin\Debug\cex 14.12 2.pdb
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex 14.12 2.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex_14._12_2.Form1.resources
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex_14._12_2.Properties.Resources.resources
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex 14.12 2.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex 14.12 2.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex 14.12 2.exe
+C:\Users\spote\source\repos\cex 14.12 2\cex 14.12 2\obj\Debug\cex 14.12 2.pdb

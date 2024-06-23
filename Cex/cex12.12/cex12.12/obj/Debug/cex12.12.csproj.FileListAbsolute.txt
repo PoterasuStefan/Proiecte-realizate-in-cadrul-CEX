@@ -1,0 +1,10 @@
+C:\Users\spote\source\repos\cex12.12\cex12.12\bin\Debug\cex12.12.exe.config
+C:\Users\spote\source\repos\cex12.12\cex12.12\bin\Debug\cex12.12.exe
+C:\Users\spote\source\repos\cex12.12\cex12.12\bin\Debug\cex12.12.pdb
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12.12.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12._12.Form1.resources
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12._12.Properties.Resources.resources
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12.12.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12.12.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12.12.exe
+C:\Users\spote\source\repos\cex12.12\cex12.12\obj\Debug\cex12.12.pdb

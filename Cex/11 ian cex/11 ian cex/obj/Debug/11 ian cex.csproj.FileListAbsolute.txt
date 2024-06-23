@@ -1,0 +1,11 @@
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\bin\Debug\11 ian cex.exe.config
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\bin\Debug\11 ian cex.exe
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\bin\Debug\11 ian cex.pdb
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\11 ian cex.csproj.AssemblyReference.cache
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\_11_ian_cex.Form1.resources
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\_11_ian_cex.Properties.Resources.resources
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\11 ian cex.csproj.GenerateResource.cache
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\11 ian cex.csproj.CoreCompileInputs.cache
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\11 ian cex.exe
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\11 ian cex.pdb
+C:\Users\spote\source\repos\11 ian cex\11 ian cex\obj\Debug\_11_ian_cex.Form2.resources
